@@ -1,0 +1,23 @@
+.user-cont-box .tabnav span {
+    float: left;
+    color: #333;
+    padding: 12px 44px;
+    font-size: 18px;
+    margin-right: -1px;
+    cursor: pointer;
+    border: 1px
+    solid #dcdcdc;
+    margin-bottom: 10px;
+}
+
+.user-order-show .tabnav a {
+    float: right;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #0019ff;
+}
+
+.user-order-show .tabnav a:hover {
+    cursor: pointer;
+    color: red;
+}
