@@ -26,7 +26,7 @@
 
 ### 7 线路详情
 
-![lineDetail](https://github.com/lijinping2017/tourism-management-demo/raw/master/images/solution.jpg)
+![lineDetail](https://github.com/lijinping2017/tourism-management-demo/raw/master/images/lineDetail.jpg)
 
 ### 8 线路预订
 
